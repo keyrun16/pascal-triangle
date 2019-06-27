@@ -1,4 +1,3 @@
-
 function pasc(n){
     var result = [];
         result[0] = [1];

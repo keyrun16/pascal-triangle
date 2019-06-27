@@ -1,14 +1,10 @@
 # Introduction 
-JavaScript Pascal triangle algorithm
-
-This repository contains JavaScript based popular Pascal triangle algorithm.
+Pascal triangle algorithm in JavaScript
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+This repository contains JavaScript based popular Pascal triangle algorithm.
 
+# Build and Run
+This repository has only one plain javascript file, so build is not required. Just copy this code and execute in any online javascript editors like https://playcode.io/online-javascript-editor / https://jsfiddle.net / https://js.do or add this in any HTML file like below.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+<script src="pascalTriangle.js"></script>
